@@ -1,0 +1,20 @@
+// Custom Abstracts scss files
+@import "abstracts/index";
+
+// Bootstrap Files
+@import "../bootstrap/scss/functions";
+@import "../bootstrap/scss/variables";
+@import "../bootstrap/scss/mixins";
+
+// animation scss file
+@import "animations/index";
+
+//Custom base scss File
+@import "base/index";
+
+// Custom components files
+@import "components/index";
+
+
+// Bootstrap File
+@import "../bootstrap/scss/bootstrap";
